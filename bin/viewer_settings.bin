@@ -1,0 +1,4 @@
+#sprite viewer configuration
+display_width=640
+display_height=480
+fps=60
